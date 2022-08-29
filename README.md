@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Uz Dorid</h1>
+<h1 align="center">Hi 👋, I'm Uz Droid</h1>
 <h3 align="center">A passionate Android developer from Uzbekistan</h3>
 
 - 💬 Ask me about **Android and other ...**
